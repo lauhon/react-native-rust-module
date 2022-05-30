@@ -8,7 +8,7 @@
 
 import React from 'react';
 import {SafeAreaView, ScrollView, StatusBar, Text, View} from 'react-native';
-import {helloWorld} from 'react-native-rust';
+import {helloWorld} from 'react-native-rust-module';
 const App = () => {
   const [result, setResult] = React.useState();
 
