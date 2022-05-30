@@ -34,15 +34,16 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "rust,"
   ],
-  "repository": "https://github.com/lauhon/WalletPOC/tree/master/packages/react-native-rust",
+  "repository": "https://github.com/lauhon/react-native-rust-module",
   "author": "Laurenz Honauer <laurenz.honauer@gmail.com> (https://github.com/lauhon)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lauhon/react-native-rust/issues"
+    "url": "https://github.com/lauhon/react-native-rust-module/issues"
   },
-  "homepage": "https://github.com/lauhon/react-native-rust#readme",
+  "homepage": "https://github.com/lauhon/react-native-rust-module#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
